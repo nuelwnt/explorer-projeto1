@@ -1,4 +1,4 @@
-<h1>Projeto 1 - Explorer</h1>
+<h1>Projeto 1</h1>
  
  Status: Concluído.
  
