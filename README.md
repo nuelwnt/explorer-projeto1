@@ -2,7 +2,7 @@
  
  Status: Concluído.
  
- ## Sobre o projeto</h2>
+ ## Sobre o projeto
 
   * Este projeto é apenas uma página de um site para vendas de móveis customizáveis.
   
